@@ -65,8 +65,8 @@ The original also described an LSTM model. It is not included here because only 
 Requires Python 3.10 or later.
 
 ```bash
-git clone <this repo>
-cd migration-forecasting
+git clone https://github.com/latedeveloper08/Migration-forecasting.git
+cd Migration-forecasting
 pip install -r requirements.txt
 jupyter notebook notebooks/migration_forecasting.ipynb
 ```
